@@ -1,0 +1,460 @@
+.contenu{
+    overflow: hidden;
+}
+
+.bg-img{
+    background-image: url("img1.png");
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.navb{
+    background-color: #434d55;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    opacity: 0.8;
+    bottom:99px;
+}
+.logo{
+position: relative;
+margin: 0 auto;
+left: 230px;
+top: 65px;
+}
+.navb1 .logo1{
+
+}
+.item{
+    display: inline-block;
+    margin-left: 20px;
+}
+.menu li{
+    display: inline-block;
+    font-size: 0.8rem;
+    padding: 5rem 1rem;
+    margin: 0 auto;
+    position: relative;
+    left: 520px;
+    width: 50px;
+}
+.menu li a{
+    position: relative;
+    padding: 10px 18px;
+    font-family: "SegoeUI-Bold; serif";
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0 auto;
+    transition: color 0.3s;
+
+    
+}
+.menu li :hover{
+    background-color: none;
+    border: 2px solid #4bcaff;
+}
+.p-balise{
+    position: relative;
+    margin: 0 auto;
+    bottom: 230px;
+    text-align: center;
+}
+.p-balise span{
+    
+    position: relative;
+    margin: 0 auto;
+    background: #434d55;
+    color: white;
+    font-size: 30px;
+    opacity: 0.8;
+   
+}
+.basA{
+    position: relative;
+    margin: 0 auto;
+    background-color: turquoise;
+    bottom: 90px;
+
+}
+
+.P{
+    display: flex;
+}
+
+
+.bg-bleu{
+    background: #4bcaff;
+    height: 350px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 100px;
+}
+.P{
+    display: flex;
+    color: #fff;
+    width: 90%;
+    position: relative;
+    margin: 0 auto;
+    left: 50px;
+    font-family: "Segoe UI";
+}
+.part1{
+    position: relative;
+    margin:0 auto;
+    left: 130px;
+}
+.part2{
+    position: relative;
+    margin: 0 auto;
+    top: 81px;
+    left: 65px;
+   
+}
+.part3{
+    position: relative;
+    margin: 0 auto;
+    top: 81px;
+    
+}
+.part4{
+    position: relative;
+    margin: 0 auto;
+    top: 81px;
+    right: 69px;
+}
+article p{
+    position: relative;
+    margin: 0 auto;
+    left:-10px ;
+    font-size: 12px;
+}
+.navb1{
+    
+    height: 180px;
+    display: flex;
+    align-items: center;
+    opacity: 0.8;
+    
+}
+.item1{
+    display: inline-block;
+    margin-left: 20px;
+}
+.menu1 li{
+    display: inline-block;
+    font-size: 0.8rem;
+    padding: 7rem 1.5rem;
+    margin: 0 auto;
+    position: relative;
+    left: 520px;
+    width: 50px;
+}
+.menu1 li a{
+    position: relative;
+    padding: 12px 18px;
+    font-family: "SegoeUI-Bold; serif";
+    font-size: 12px;
+    text-decoration: none;
+    color:  #434d55;
+    text-transform: uppercase;
+    margin: 0 auto;
+    transition: color 0.3s;
+
+    
+}
+.icone td{
+    padding: 5px 9px;
+    position: relative;
+margin: 0 auto;
+}
+
+ .img5{
+position: relative;
+margin: 0 auto;
+bottom: 350px;
+left: 170px;
+padding: 10px 12px;
+background-color: none;
+border: 2px solid #fff;
+width: 20px;
+height:20px ;
+
+
+
+}
+.menu1 li :hover{
+    background-color: none;
+    border: 2px solid #4bcaff;
+    padding: 5px 10px;
+}
+.menu1 li a.activ{
+    background-color: none;
+    color: #4bcaff;
+}
+table{
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+}
+td img{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-top: 10px;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+.bg-img3 {
+    background: #595b5c;
+    height: 380px;
+    width: 1500px;
+    position: relative;
+    margin: 0 auto;
+    top: 15px;
+    margin-left: 50px;
+    left: -50px;
+
+}
+
+
+
+.video{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 790px;
+    bottom: 180px;
+    
+}
+.logo3{
+    color: #fff ;
+    position: relative;
+    margin: 0 auto;
+    left: 130px;
+}
+
+
+.menu3 p{
+
+ position: relative;
+    margin: auto;
+    margin-left: 99px;
+    top: 30px;
+    color: #fff;
+    
+}
+.item3{
+
+    position: relative;
+    margin: auto;   
+    margin-left: 99px;
+    top:60px;
+}
+.bg_img4{
+    background: #4bcaff;
+    height: 280px;
+    position: relative;
+    margin: 0 auto;
+}
+.menu4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #fff;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    top: 20px;
+    opacity:10 ;
+    
+}
+strong{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    opacity: 10;
+}
+.logo4{
+    color: #fff;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    font-size: 21px;
+    font-family: sans-serif;
+    opacity: 0.7;
+    top: 20px;
+}
+.menu5 p{
+    position: relative;
+    margin: auto;   
+color: rgb(245, 243, 237);
+bottom: 499px;
+margin-left:195px
+}
+.menu5 .sous_p{
+    position: relative;
+    margin: auto;   
+    margin-left:695px ;
+    bottom: 670px;
+}
+
+.{
+    position:relative;
+    margin: auto;   
+    margin-left:695px ;
+    bottom: 230px;
+    display: inline-flex;
+    
+
+}
+.logo5{
+    position: relative;
+    margin: auto;   
+    color: rgb(245, 243, 238);
+    bottom: 510px;
+    margin-left:195px
+}
+.menu6{
+font-family: Arial, Helvetica, sans-serif;
+    
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    bottom: 269px;
+    opacity:0.7 ;
+}
+.logo6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    bottom:280px ;
+    opacity:0.5 ;
+}
+.walter{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    bottom:330px ;
+    opacity:0.7;
+    color: #4bcaff;
+}
+.gui{
+    font-style: oblique 0.9;
+    font-size: 60px;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 930px;
+    bottom: 395px;
+    opacity:12;
+}
+.menu7 .sous_p2{
+    position: relative;
+    margin: auto;   
+    margin-left:645px ;
+    bottom: 1030px;
+    color: rgb(255, 255, 255);
+}
+.navb7 img{
+    position: relative;
+    margin: 0 auto;
+    bottom:285px;
+    height: 599px;
+}
+form{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    bottom: 799px;
+    opacity:12;
+}
+input{
+    color: white;
+    border: 1px solid zhite;
+}
+.mb-3{
+    position: relative;
+    margin: 0 auto;
+    margin-left: -175px;
+    top:65px;
+
+}
+.email{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 195px;
+    bottom: 9px;
+
+}
+.message{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 175px;
+    bottom:36px;
+}
+textarea{
+    position: relative;
+    margin: 0 auto;
+    margin-left: 175px;
+    bottom:34px;
+    border: #fff 4px solid;
+    height: 100px;
+    width: 795px;
+    opacity: 0.2;
+}
+.input1{
+
+    position: relative;
+    margin: 0 auto;
+    
+    width: 355px;
+    color: #696666;
+    opacity: 0.2;
+    border-color:  #fff 2px solid;
+}
+footer{
+    background-color:#595b5c;
+    position: relative;
+    margin: 0 auto;
+    bottom: 750px;
+    height: 130px;
+}
+footer .menu8{
+   position: relative;
+   left: 95px;
+   top:20px;
+   color: #434d55;
+   text-decoration: none;
+}
+.logo7{
+    position: relative;
+    margin: 0 auto;
+    bottom: 839px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    
+    margin-left: 195px;
+    color:#fff ;
+
+}
+.sous_p3{
+    position: relative;
+    margin: auto;   
+    margin-left:645px ;
+    bottom: 1020px;
+    color: rgb(255, 255, 255);
+}
+.full{
+    color: white;
+}
+.E{
+    color: white;
+}
+.message{
+    color: white;
+
+}
